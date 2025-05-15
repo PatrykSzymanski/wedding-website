@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.2725789e.js",
-    "index.html": "/index.html",
-    "main.2725789e.js.map": "/static/js/main.2725789e.js.map"
+    "main.js": "/wedding-website/static/js/main.2725789e.js",
+    "index.html": "/wedding-website/index.html",
+    "main.2725789e.js.map": "/wedding-website/static/js/main.2725789e.js.map"
   },
   "entrypoints": [
     "static/js/main.2725789e.js"
